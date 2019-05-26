@@ -1,0 +1,57 @@
+body {
+        margin-top: 25px;
+}
+.flex {
+    display: flex;
+}
+#mustDo {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 500px;
+    height: 700px;
+    margin-right: 50px;
+    background-color: beige;
+}
+#shopping {
+    display: inline-block;
+    width: 500px;
+    height: 700px;
+    margin-left: 50px;
+    background-color: lightpink;
+}
+#whyNot {
+    display: inline-block;
+    width: 500px;
+    height: 700px;
+    background-color: lightgreen;
+}
+
+.form {
+    display: inline;
+}
+
+.content {
+    text-transform: capitalize;
+}
+
+.toggle {
+    border-radius: 10%;
+    display: inline;
+    background-color: #87CEFA;
+}
+
+.trigger {
+    border-radius: 10%;
+    display: inline;
+    background-color: #808000;
+}
+
+.text {
+    display: inline;
+    color: #000000;
+}
+
+.text2 {
+    display: inline;
+    color: #808000;
+}
